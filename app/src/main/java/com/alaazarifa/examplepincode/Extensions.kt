@@ -1,3 +1,7 @@
+/*
+ * Created by Alaa AbuZarifa Copyright (c) April 2022
+ */
+
 package com.alaazarifa.examplepincode
 
 import android.app.Activity
