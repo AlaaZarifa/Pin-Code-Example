@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="strokeColorNotFocus">#DADADA</color>
+    <color name="strokeColorFocus">#4561B6</color>
+
+    <color name="bgColorNotFocus">#F2F2F2</color>
+    <color name="bgColorFocus">#FFFFFF</color>
+
+    <color name="textColor">#1F1F1F</color>
+    <color name="grayHint">#A0A0A0</color>
+</resources>

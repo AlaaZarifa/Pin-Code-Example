@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Alaa AbuZarifa
+  ~ for Ibtikarat
+  ~ Copyright (c) 2021
+  -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- PinEntryEditText is focused -->
+    <item android:state_focused="true">
+        <shape android:shape="oval">
+            <solid android:color="@color/bgColorFocus" />
+            <stroke android:width="1dp" android:color="@color/strokeColorFocus" />
+        </shape>
+    </item>
+    <!-- PinEntryEditText is not focused -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/bgColorNotFocus" />
+            <stroke android:width="1dp" android:color="@color/strokeColorNotFocus" />
+        </shape>
+    </item>
+</selector>
